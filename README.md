@@ -12,7 +12,7 @@ There are a number of quirks inherent to MSFS that limit the fidelity that can b
 
 ## Required
 
-Working Title's G1000 Mod:
+Working Title's G1000 v0.3.4:
 https://github.com/Working-Title-MSFS-Mods/fspackages/releases/tag/g1000-v0.3.4
 
 Included in this mod is a small fix for Working Title's G1000 v0.3.4, which enables annunciations. Installing this mod will replace the following file: *workingtitle-g1000\html_ui\WorkingTitle\Pages\VCockpit\Instruments\NavSystems\SharedCommonPFD_MFD.js* so it's important to install in the correct order (see How to install).
