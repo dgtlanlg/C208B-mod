@@ -1,31 +1,31 @@
-# Cessna 208B Improvment-Mod for Microsoft Flight Simulator 2020
+# Cessna 208B Improvement-Mod for Microsoft Flight Simulator 2020
 
 ## About
-This Mod will improve the Cessna 208B Grand Caravan EX to match with the Pilot Handbook.  
-The goal is to make it much more realistic. So there will be more features in the future.  
-This Mod will need to work the latest v0.3.2 G1000 Mod from WorkingTitle:  
-[https://github.com/Working-Title-MSFS-Mods/fspackages/releases/tag/g1000-v0.3.2](https://github.com/Working-Title-MSFS-Mods/fspackages/releases/tag/g1000-v0.3.2)  
-This mod includes also a fixed file for Annunciation Messages which need to be replaced in the mod from WorkingTitle  
-Included Annunciation Messages:  
-[https://github.com/SheepCreativeSoftware/msfs2020-C208-Improvment-Mod/wiki/CAS-Messages](https://github.com/SheepCreativeSoftware/msfs2020-C208-Improvment-Mod/wiki/CAS-Messages)
+
+Started as a simple project to combine two of the most significant mods for the C208B. Taking the engine and flight model from https://github.com/Exp232/C208-MSFS2020-Fix and combining them with the systems and avionics from https://github.com/SheepCreativeSoftware/msfs2020-C208-Improvment-Mod Further building upon their work, with the goal of bringing the stock C208B much closer to reality.
+
+Many thanks to everyone involved.
+
+## Limitations
+
+There are a number of quirks inherent to MSFS that limit the fidelity that can be achieved. Most notable is the incorrect turbine behaviour, lack of beta range, feathering or propeller drag. It's possible some of these can be overcome, others faked, but the results will likely never be truly accurate.
+
+## Required
+
+Working Title's G1000 Mod:
+https://github.com/Working-Title-MSFS-Mods/fspackages/releases/tag/g1000-v0.3.4
+
+Included in this mod is a small fix for Working Title's G1000 v0.3.4, which enables annunciations. Installing this mod will replace the following file: *workingtitle-g1000\html_ui\WorkingTitle\Pages\VCockpit\Instruments\NavSystems\SharedCommonPFD_MFD.js* so it's important to install in the correct order (see How to install).
+
+If you're using a tool to manage your mods, you may need to replace this file manually.
 
 ## Download
 
-Actual Release v0.1.6:  
-[https://github.com/SheepCreativeSoftware/msfs2020-C208-Improvment-Mod/releases/tag/v0.1.6](https://github.com/SheepCreativeSoftware/msfs2020-C208-Improvment-Mod/releases/tag/v0.1.6)
+
 
 ## How to install
 
-1. Unzip the Mod and Copy it into the Community Folder.  
+1. Delete any previous versions.
+2. Install Working Title's G1000 Mod into the Community Folder.
+3. Install this mod by unzipping into the Community Folder.
 [Where is the Community Folder located?](https://www.flightsim.com/vbfs/content.php?21235-Finding-The-MSFS-2020-Community-Folder)
-
-2. Download, unzip and copy the WorkingTitle G1000 mod into the community folder:  
-[https://github.com/Working-Title-MSFS-Mods/fspackages/releases/tag/g1000-v0.3.2](https://github.com/Working-Title-MSFS-Mods/fspackages/releases/tag/g1000-v0.3.2)  
-
-3. Download, unzip and replace the CommonPFD_MFD.js in the WorkingTitle Mod which is located in:  
-"CommunityFolderLocation\workingtitle-g1000\html_ui\WorkingTitle\Pages\VCockpit\Instruments\NavSystems\Shared\"
-
-## Changes
-- It will fix and add a lot of Annunciation Messages for the Cessna 208B Grand Caravan EX
-- Adding System page to Engine pages (WorkingTitle G1000 Mod needed)
-- Reduced fuel consumption in low idle
