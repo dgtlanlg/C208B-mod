@@ -21,11 +21,10 @@ If you're using a tool to manage your mods, you may need to replace this file ma
 
 ## Download
 
-
+https://github.com/dgtlanlg/C208B-mod/releases/tag/v2012.1
 
 ## How to install
 
 1. Delete any previous versions.
 2. Install Working Title's G1000 Mod into the Community Folder.
 3. Install this mod by unzipping into the Community Folder.
-[Where is the Community Folder located?](https://www.flightsim.com/vbfs/content.php?21235-Finding-The-MSFS-2020-Community-Folder)
