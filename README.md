@@ -10,6 +10,14 @@ Many thanks to everyone involved.
 
 There are a number of quirks inherent to MSFS that limit the fidelity that can be achieved. Most notable is the incorrect turbine behaviour, lack of beta range, feathering or propeller drag. It's possible some of these can be overcome, others faked, but the results will likely never be truly accurate.
 
+## Compatibility
+
+Sim version 1.12.13
+
+WT G1000 version 0.3.4
+
+PANEL.CFG - This mod contains a modified copy of the panel.cfg; this file may be found in other mods, including liveries, where it is used to hide or adjust aircraft registration. If you run into any issues with the G1000 displays, such as blank white screens, check for conflicting mods that include this file.
+
 ## Required
 
 Working Title's G1000 v0.3.4:
@@ -21,7 +29,7 @@ If you're using a tool to manage your mods, you may need to replace this file ma
 
 ## Download
 
-https://github.com/dgtlanlg/C208B-mod/releases/tag/v2012.1
+https://github.com/dgtlanlg/C208B-mod/releases/tag/v2012.2
 
 ## How to install
 

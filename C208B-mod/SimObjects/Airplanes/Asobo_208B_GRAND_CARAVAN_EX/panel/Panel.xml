@@ -337,7 +337,7 @@
 		</Condition>
 	</Annunciation>
 	<!--Indicates that the standby alternator is generating electrical power-->
-	<Annunciation>
+	<!-- <Annunciation>
 	  <Type>Advisory</Type>
 	  <Text>STBY PWR ON</Text>
 		<Condition>
@@ -346,7 +346,7 @@
 				<Constant>2</Constant>
 			</Greater>
 		</Condition>
-	</Annunciation>
+	</Annunciation> -->
 	<!--Indicates electrical power is being supplied to the engine ignition system-->		
 	<Annunciation>
 	  <Type>Advisory</Type>
